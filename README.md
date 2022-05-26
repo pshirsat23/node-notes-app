@@ -1,8 +1,8 @@
 # node-notes-app
 
 Dependencies: 
-yargs - npm install yargs 
-chalk - npm install chalk@2.4.2
+* yargs - npm install yargs 
+* chalk - npm install chalk@2.4.2
 
 commands to run application:
 * To list all Notes -   node app.js list
